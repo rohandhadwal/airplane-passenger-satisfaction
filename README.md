@@ -1,4 +1,4 @@
-# airplane-passenger-satisfaction
+# Airplane Passenger Satisfaction Analysis
 
 This project focuses on analyzing factors influencing airline passenger satisfaction using a structured approach to exploratory data analysis (EDA). The dataset contains various features such as demographic details, travel details, and service ratings. 
 
